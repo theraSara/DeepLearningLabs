@@ -37,8 +37,8 @@ This repository contains Python code and project files related to a deep learnin
    
 ### 3. Project: Advanced Medical Image Classification
 * **Objectives:** Develop and evaluate advanced deep learning models for medical image classification.
-  * **Key Highlights:**
-      * Combines preprocessing and CNN modeling approaches from both labs.
-      * Trains models on real-world medical datasets with varying distributions and complexities.
-      * Applies best practices in deep learning such as early stopping, model checkpoints, and learning rate scheduling.
-      * Provides insights through detailed metrics and visualizations.
+* **Key Highlights:**
+  * Combines preprocessing and CNN modelling approaches from both labs.
+  * Trains models on real-world medical datasets with varying distributions and complexities.
+  * Applies best practices in deep learning such as early stopping, model checkpoints, and learning rate scheduling.
+  * Provides insights through detailed metrics and visualizations.
